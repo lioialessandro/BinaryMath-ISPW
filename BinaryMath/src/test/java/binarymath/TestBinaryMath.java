@@ -4,6 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+// Using 14 & 9 to test the operations
 public class TestBinaryMath {
     @Test
     public void testBinarySum() {

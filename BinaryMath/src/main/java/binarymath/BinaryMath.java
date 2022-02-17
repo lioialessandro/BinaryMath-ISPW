@@ -1,7 +1,5 @@
 package binarymath;
 
-// 14 9
-
 public class BinaryMath {
     private int convertBinaryToDecimal(Integer number) {
         return Integer.parseInt(number.toString(), 10);
